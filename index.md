@@ -1,4 +1,9 @@
 # Matt Cicinelli's First CS193 Homework
+## Some of Matt's Favorite Things About CS193
+- Working in the terminal
+- The references to Mr. Robot
+- How easy it is to create a website
+  
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
